@@ -7,4 +7,5 @@ Exercises Categories:
 
 Exams Categories:
 ◇ 𝐄𝐗𝐀𝐌-1 ( 11 exercises )
-◇ 𝐄𝐗𝐀𝐌-2
+◇ 𝐄𝐗𝐀𝐌-2 ( 11 exercises )
+ 
